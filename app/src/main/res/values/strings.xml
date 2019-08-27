@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="user_interface_page">QUIZ ON USER INTERFACE</string>
+
+    <string name="user_interface_question1">1. Which company developed android?</string>
+    <string name="user_interface_question1_choice1">A. Apple</string>
+    <string name="user_interface_question1_choice2">B. Google</string>
+    <string name="user_interface_question1_choice3">C. Android Inc.</string>
+    <string name="user_interface_question1_choice4">D. Nokia</string>
+
+    <string name="user_interface_question2">2. Web browser available in android is based on?</string>
+    <string name="user_interface_question2_choice1">A. Chrome</string>
+    <string name="user_interface_question2_choice2">B. Firefox</string>
+    <string name="user_interface_question2_choice3">C. Open-source Webkit</string>
+    <string name="user_interface_question2_choice4">D. Opera</string>
+
+    <string name="user_interface_question3">3. Which company bought android?</string>
+    <string name="user_interface_question3_choice1">A. Apple</string>
+    <string name="user_interface_question3_choice2">B. No Company</string>
+    <string name="user_interface_question3_choice3">C. Nokia</string>
+    <string name="user_interface_question3_choice4">D. Google </string>
+
+    <string name="user_interface_question4">4. If you provide a _________, your choice identifier (second parameter) can be 0.</string>
+
+    <string name="user_interface_question5">5. Which of the following Dialog boxes are supported by Android? </string>
+    <string name="user_interface_question5_choice1">1. AlertDialog </string>
+    <string name="user_interface_question5_choice2">2. ProgressDialog </string>
+    <string name="user_interface_question5_choice3">3. DatePickerDialog </string>
+    <string name="user_interface_question5_choice4">4. TimePickerDialog</string>
+
+
+    <string name="user_input_page">QUIZ ON USER INPUT</string>
+
+    <string name="user_input_question1">1. What is android??</string>
+    <string name="user_input_question1_choice1">A. Desktop Operating System </string>
+    <string name="user_input_question1_choice2">B. Programming Language </string>
+    <string name="user_input_question1_choice3">C. Mobile Operating System </string>
+    <string name="user_input_question1_choice4">D. Database </string>
+
+    <string name="user_input_question2">2. Android is based on which kernel?</string>
+    <string name="user_input_question2_choice1">A. Linux Kernel</string>
+    <string name="user_input_question2_choice2">B. Windows Kernel</string>
+    <string name="user_input_question2_choice3">C. MAC Kernel</string>
+    <string name="user_input_question2_choice4">D. Hybrid Kernel</string>
+
+    <string name="user_input_question3">3. For creating user interface in Android, you have to use?</string>
+    <string name="user_input_question3_choice1">A. Eclipse</string>
+    <string name="user_input_question3_choice2">B. java and XML</string>
+    <string name="user_input_question3_choice3">C.  java and SQL</string>
+    <string name="user_input_question3_choice4">D. Java and Pl/sql</string>
+
+    <string name="user_input_question4">4. If you want to increase the whitespace between widgets, you will need to use the ____________ property.</string>
+
+    <string name="user_input_question5">5. Using a content provider, which of the following operations are able to perform?</string>
+    <string name="user_input_question5_choice1">1. create </string>
+    <string name="user_input_question5_choice2">2. read </string>
+    <string name="user_input_question5_choice3">3. delete </string>
+    <string name="user_input_question5_choice4">4. update</string>
+
+
+    <string name="multi_screen_app_page">QUIZ ON MULTI SCREEN</string>
+
+    <string name="multi_screen_app_question1">1. Which of the following holds Java source code for the application?</string>
+    <string name="multi_screen_app_question1_choice1">A. res/</string>
+    <string name="multi_screen_app_question1_choice2">B. assets/</string>
+    <string name="multi_screen_app_question1_choice3">C. src/ </string>
+    <string name="multi_screen_app_question1_choice4">D. bin/</string>
+
+    <string name="multi_screen_app_question2">2. Which of the following don’t have any UI component and run as a background process?</string>
+    <string name="multi_screen_app_question2_choice1">A. services</string>
+    <string name="multi_screen_app_question2_choice2">B. simulator</string>
+    <string name="multi_screen_app_question2_choice3">C. Emulator</string>
+    <string name="multi_screen_app_question2_choice4">D. None of These</string>
+
+    <string name="multi_screen_app_question3">3.  Typically MIME type will be</string>
+    <string name="multi_screen_app_question3_choice1">A.  html	</string>
+    <string name="multi_screen_app_question3_choice2">B. text</string>
+    <string name="multi_screen_app_question3_choice3">C. Text/HTML </string>
+    <string name="multi_screen_app_question3_choice4">D. Doc</string>
+
+    <string name="multi_screen_app_question4">4. In ___________, sender specifies type of receiver.</string>
+
+    <string name="multi_screen_app_question5">5. Which of the following are different storage methods available in Android?</string>
+    <string name="multi_screen_app_question5_choice1">A. Shared Preferences</string>
+    <string name="multi_screen_app_question5_choice2">B. Internal Storage</string>
+    <string name="multi_screen_app_question5_choice3">C. External Storage</string>
+    <string name="multi_screen_app_question5_choice4">D. SQLite Databases</string>
+
+
+    <string name="networking_page">QUIZ ON NETWORKING </string>
+
+    <string name="networking_question1">1. ADB stands for </string>
+    <string name="networking_question1_choice1">A. Android Debug Bridge </string>
+    <string name="networking_question1_choice2">B. Application Debug Bridge</string>
+    <string name="networking_question1_choice3">C. Android data bridge</string>
+    <string name="networking_question1_choice4">D. Application data bridge</string>
+
+    <string name="networking_question2">2. What is mean by ANR?</string>
+    <string name="networking_question2_choice1">A. Application not Recognized</string>
+    <string name="networking_question2_choice2">B. Android not recognized</string>
+    <string name="networking_question2_choice3">C. Application Not Responding </string>
+    <string name="networking_question2_choice4">D. none of these</string>
+
+    <string name="networking_question3">3. Eclipse is an? </string>
+    <string name="networking_question3_choice1">A. Android tool</string>
+    <string name="networking_question3_choice2">B. IDE </string>
+    <string name="networking_question3_choice3">C. Android interface</string>
+    <string name="networking_question3_choice4">D. none of these</string>
+
+    <string name="networking_question4">4. For __________ , code used by Android is not a open source.</string>
+
+    <string name="networking_question5">5. To insert data into a content provider, you need to use?</string>
+    <string name="networking_question5_choice1">A. insert() </string>
+    <string name="networking_question5_choice2">B. bulkInsert() </string>
+    <string name="networking_question5_choice3">C. getContentProvider()</string>
+    <string name="networking_question5_choice4">D. update()</string>
+
+
+    <string name="data_storage_page">QUIZ ON DATA STORAGE</string>
+
+    <string name="data_storage_question1">1. Is Android available in ROM?</string>
+    <string name="data_storage_question1_choice1">A. Yes</string>
+    <string name="data_storage_question1_choice2">B. No </string>
+
+    <string name="data_storage_question2">2. Is Android hack proof?</string>
+    <string name="data_storage_question2_choice1">A. Yes</string>
+    <string name="data_storage_question2_choice2">B. No</string>
+
+
+    <string name="data_storage_question3">3. An Android SDK is required to develop the application for Android?</string>
+    <string name="data_storage_question3_choice1">A. Yes </string>
+    <string name="data_storage_question3_choice2">B. No</string>
+
+    <string name="data_storage_question4">4. To update contents of content provider using curser and commit you need to call________.</string>
+
+    <string name="data_storage_question5">5.  Which of the following(s) is/are component of APK file?</string>
+    <string name="data_storage_question5_choice1">A. Resources </string>
+    <string name="data_storage_question5_choice2">B. Delvik Executable </string>
+    <string name="data_storage_question5_choice3">C. WiFi driver</string>
+    <string name="data_storage_question5_choice4">D. none of above</string>
+
+
+    <string name="submit_answers">Submit</string>
+</resources>

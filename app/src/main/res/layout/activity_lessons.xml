@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LessonsActivity" >
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:text="User Interface"
+        android:background="#2962FF"
+        android:onClick="openUserInterfaceActivity"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:text="User Input"
+        android:background="#2962FF"
+        android:onClick="openUserInputActivity"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:text="Multi-Screen App"
+        android:background="#2962FF"
+        android:onClick="openMultiScreenAppActivity"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:text="Networking"
+        android:background="#2962FF"
+        android:onClick="openNetworkingActivity"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:text="Data Storage"
+        android:background="#2962FF"
+        android:onClick="openDataStorageActivity"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+</LinearLayout>
